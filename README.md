@@ -273,7 +273,7 @@ See every node execution, LLM call, and retry as a visual timeline:
 
 ```bash
 # 1. Clone
-git clone https://github.com/vishal815/ResearchPilot-AI.git
+git clone https://github.com/Srishank-Padam/ResearchPilot.git
 cd ResearchPilot-AI
 
 # 2. Virtual environment
