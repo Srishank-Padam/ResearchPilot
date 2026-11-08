@@ -342,8 +342,7 @@ Opens at `http://localhost:8501`
 
 ## 🐳 Deploy to Hugging Face Spaces and Railway
 
-<img width="1024" height="1536" alt="09_Deployment svg" src="https://github.com/user-attachments/assets/287a0d95-78bf-423d-9073-fe3dadb9c93a" />
-
+<img width="1684" height="2528" alt="Development Architecture" src="https://github.com/user-attachments/assets/72bfcfb0-9748-4e42-aa83-a9fb38585544" />
 ---
 
 ## 📚 Concepts Covered
@@ -398,7 +397,7 @@ MIT License — free to use, modify, and distribute with attribution.
 
 [LangGraph](https://langchain-ai.github.io/langgraph/) · [Groq](https://groq.com) · [Google Gemini](https://aistudio.google.com) · [Tavily](https://tavily.com) · [Plotly](https://plotly.com) · [Streamlit](https://streamlit.io) · [ReportLab](https://www.reportlab.com) · [LangSmith](https://smith.langchain.com)
 
-<img width="864" height="1821" alt="08_Tech_Stack svg" src="https://github.com/user-attachments/assets/4fe4bb59-f9b9-4a21-9b04-681a4be7cd07" />
+<img width="1408" height="3002" alt="Tech Stack" src="https://github.com/user-attachments/assets/6a92b57f-fa9c-4971-86f7-b0d41f1dfe71" />
 
 ---
 
