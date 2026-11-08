@@ -8,7 +8,7 @@
 
 **Give it a topic → Get a complete, evidence-backed research report with charts, citations, and PDF export.**
 
-ResearchPilot AI runs a coordinated team of specialised AI agents — each with a focused job — orchestrated by LangGraph. It plans, routes, searches, analyses, fact-checks, visualises, writes, and self-grades, all from one query.
+ResearchPilot AI runs a coordinated team of specialised AI agents - each with a focused job - orchestrated by LangGraph. It plans, routes, searches, analyses, fact-checks, visualises, writes, and self-grades, all from one query.
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-7C3AED)](https://langchain-ai.github.io/langgraph/)
@@ -18,7 +18,7 @@ ResearchPilot AI runs a coordinated team of specialised AI agents — each with 
 [![ReportLab](https://img.shields.io/badge/PDF-ReportLab-1E3A5F)](https://www.reportlab.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22C55E)](LICENSE)
 
-[🚀 Test_Live Demo (Hosted on Railway) ]( https://researchpilot-ai-production.up.railway.app/) · [🤗Hosted on Hugging Face ](https://huggingface.co/spaces/Visal9252/ResearchPilot-AI) · [🎥 Demo Video](https://drive.google.com/file/d/1bq21B3Nqx_ZJ4NzMV6WsZn6drlKLSAi1/view?usp=drive_link) · [👨‍💻 Portfolio](https://vishal-lazrus-portfolio.vercel.app/)
+
 
 </div>
 
@@ -42,7 +42,6 @@ ResearchPilot AI runs a coordinated team of specialised AI agents — each with 
 | 12 | [Concepts Covered](#-concepts-covered) |
 | 13 | [Troubleshooting](#-troubleshooting) |
 | 14 | [Roadmap](#-roadmap) |
-| 15 | [Connect With Me](#-connect-with-me) |
 
 ---
 
@@ -416,18 +415,4 @@ MIT License — free to use, modify, and distribute with attribution.
 
 
 
-
-## 👨‍💻 Connect With Me
-
-<div align="center">
-
-[🌐 Portfolio](https://vishal-lazrus-portfolio.vercel.app/) &nbsp;•&nbsp;
-[💼 LinkedIn](https://www.linkedin.com/in/vishal-lazrus/) &nbsp;•&nbsp;
-[🐙 GitHub](https://github.com/vishal815)
-
-**If this helped you learn something, give it a ⭐ on GitHub!**
-
-*Built by Vishal Lazrus during AI Internship at Infosys, June 2026*
-
-</div>
 
